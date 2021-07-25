@@ -1,5 +1,5 @@
 # TarejasBot
-This is a bot that I created so me and my girlfriend could keep on top of tasks that we needed to do throughout the day so productivity could be easier
+This is a bot that I created so my girlfriend and I could keep on top of tasks that we needed to do throughout the day so productivity could be easier
 
 To get this working you will need to install the Python telegram wrapper from https://github.com/python-telegram-bot/python-telegram-bot and follow their instructions for getting setup
 
